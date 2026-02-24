@@ -64,8 +64,7 @@ Burp Suite • Nmap • Metasploit • Wireshark • OWASP ZAP • FFUF • Hash
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bolice1&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Bolice1&theme=tokyonight&no-bg=true&margin-w=8" />
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bolice1&theme=tokyo-night&hide_border=true" />
