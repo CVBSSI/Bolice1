@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Secure+System+Engineer;Offensive+Security+Practitioner;AI+%2B+Backend+Developer;Quantum+Computing+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Secure+System+Engineer;Offensive+Security+Practitioner;AI+%2B+Backend+Developer;Cloud+Computing+%26+VPS+Hosting" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🧠 About
 
-Engineer focused on **secure architecture**, **offensive security**, **quantum computing foundations**, **data structures & algorithms**, and **AI-powered systems**.
+Engineer focused on **secure architecture**, **offensive security**, **cloud computing**, **VPS configurations & hosting**, **data structures & algorithms**, and **AI-powered systems**.
 
 I build scalable infrastructure — then assess it like an attacker.
 
@@ -48,6 +48,7 @@ Burp Suite • Nmap • Metasploit • Wireshark • OWASP ZAP • FFUF • Hash
 - Vulnerability Research
 - AI Integration into Production Systems
 - Offensive Security Automation
+- Cloud Computing & Hosting
 
 ---
 
@@ -55,9 +56,7 @@ Burp Suite • Nmap • Metasploit • Wireshark • OWASP ZAP • FFUF • Hash
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/) •
-[TryHackMe](https://tryhackme.com/p/bolice) •
-[PicoCTF](https://play.picoctf.org/users/bolice)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/)
 
 </div>
 
