@@ -38,6 +38,19 @@ Focused on real-world offensive security across web, API, mobile, and network en
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/)
