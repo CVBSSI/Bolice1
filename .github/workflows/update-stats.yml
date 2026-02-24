@@ -1,0 +1,66 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:       # allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: >
+            username=Bolice1
+            &show_icons=true
+            &theme=tokyonight
+            &hide_border=true
+            &count_private=true
+            &rank_icon=github
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: >
+            username=Bolice1
+            &layout=compact
+            &theme=tokyonight
+            &hide_border=true
+            &count_private=true
+          path: assets/langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Streak Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: >
+            username=Bolice1
+            &theme=tokyonight
+            &hide_border=true
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg assets/streak.svg
+          git diff --cached --quiet || git commit -m "chore: update GitHub stats cards"
+          git push
