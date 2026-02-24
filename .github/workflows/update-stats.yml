@@ -21,18 +21,27 @@ jobs:
 
       - name: Download Stats Card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" \
+          curl -s \
+            -H "Authorization: token ${{ secrets.STATS_TOKEN }}" \
+            "https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600" \
             -o assets/stats.svg
+          # Verify it's an actual SVG, not an error page
+          head -1 assets/stats.svg | grep -q "<svg" || echo "WARNING: stats.svg may be invalid"
 
       - name: Download Top Languages Card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true&count_private=true" \
+          curl -s \
+            -H "Authorization: token ${{ secrets.STATS_TOKEN }}" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" \
             -o assets/langs.svg
+          head -1 assets/langs.svg | grep -q "<svg" || echo "WARNING: langs.svg may be invalid"
 
       - name: Download Streak Card
         run: |
-          curl -s "https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true" \
+          curl -s \
+            "https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true" \
             -o assets/streak.svg
+          head -1 assets/streak.svg | grep -q "<svg" || echo "WARNING: streak.svg may be invalid"
 
       - name: Commit and push
         run: |
