@@ -1,6 +1,6 @@
 # Hi, I'm Komezusenge Bolice 👋
 
-**Penetration Tester · Full-Stack Developer · AI Enthusiast**
+**Penetration Tester · Full-Stack Developer · Kali Linux Enthusiast**
 
 I break things to make them better. My work sits at the intersection of software development and offensive security — I build applications and then attack them to find what others miss.
 
@@ -10,17 +10,23 @@ I break things to make them better. My work sits at the intersection of software
 
 This is where I spend most of my energy. I focus on real-world offensive security, not just lab environments.
 
-**What I do:**
+**Penetration Testing:**
 
-- **Web Application Pentesting** — OWASP Top 10, SQL injection, XSS, CSRF, file inclusion, business logic flaws
-- **API Security Testing** — Broken authentication, IDOR, excessive data exposure, injection flaws, improper rate limiting
-- **Mobile Security** — Insecure data storage, API leakage, improper authentication, certificate pinning bypass
-- **Network Analysis** — Port scanning, enumeration, traffic analysis, MITM
-- **Reporting** — Clear, professional pentest documentation with remediation steps
+- **Web Application Pentesting** — OWASP Top 10, SQL injection, XSS, CSRF, SSRF, XXE, file inclusion, directory traversal, business logic flaws, session hijacking, clickjacking
+- **API Security Testing** — Broken authentication, IDOR, excessive data exposure, mass assignment, injection flaws, improper rate limiting, JWT attacks, OAuth misconfigurations
+- **Mobile Security** — Insecure data storage, API leakage, improper authentication, certificate pinning bypass, reverse engineering APKs, dynamic analysis
+- **Network Pentesting** — Port scanning, service enumeration, OS fingerprinting, MITM attacks, ARP spoofing, DNS poisoning, sniffing & traffic analysis
+- **Wireless Security** — WEP/WPA/WPA2 cracking, evil twin attacks, deauthentication attacks, rogue access points
+- **Social Engineering & OSINT** — Subdomain enumeration, email harvesting, footprinting, passive & active reconnaissance
+- **Exploitation & Post-Exploitation** — Privilege escalation, lateral movement, persistence, reverse shells, payload crafting
+- **Password Attacks** — Brute force, dictionary attacks, hash cracking, credential stuffing, rainbow tables
+- **Cryptography** — Weak cipher identification, hash analysis, padding oracle, encoding/decoding challenges
+- **Forensics & Reverse Engineering** — Binary analysis, memory dumps, file carving, steganography
+- **Reporting** — Clear, professional pentest documentation with proof-of-concept and remediation guidance
 
-**Tools I use regularly:**
+**Tools:**
 
-`Burp Suite` `OWASP ZAP` `Nmap` `Metasploit` `SQLMap` `Wireshark` `Hydra` `Gobuster` `Ffuf` `Nikto` `Netcat` `theHarvester`
+`Burp Suite` `OWASP ZAP` `Nmap` `Metasploit` `SQLMap` `Wireshark` `Hydra` `Gobuster` `Ffuf` `Dirb` `Nikto` `Netcat` `John the Ripper` `Hashcat` `Aircrack-ng` `theHarvester` `Shodan` `Sublist3r` `Wfuzz` `BeEF` `Maltego` `Responder` `Impacket` `BloodHound` `CrackMapExec`
 
 **Platforms:**
 
@@ -30,8 +36,6 @@ This is where I spend most of my energy. I focus on real-world offensive securit
 ---
 
 ## 💻 Development
-
-I build full-stack applications across multiple languages and frameworks.
 
 **Languages & Frameworks:**
 
