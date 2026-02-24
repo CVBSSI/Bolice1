@@ -4,9 +4,13 @@
 
 ### 🔐 Penetration Tester • ⚙️ Computing Engineer • 🤖 AI & Systems Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bolice1&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Bolice1?style=flat-square)
-![Stars](https://img.shields.io/github/stars/Bolice1?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Bolice1&color=blueviolet&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Bolice1?label=Followers&style=flat-square&color=blue" />
+<img src="https://img.shields.io/github/stars/Bolice1?label=Stars&style=flat-square&color=yellow" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Secure+System+Engineer;Offensive+Security+Practitioner;AI+%2B+Backend+Developer;Quantum+Computing+Explorer" />
 
 </div>
 
@@ -14,59 +18,48 @@
 
 ## 🧠 About
 
-Engineer specializing in **secure architecture**, **offensive security**,  
-**quantum computing foundations**, **data structures & algorithms**,  
-and **AI-powered systems**.
+Engineer focused on **secure architecture**, **offensive security**, **quantum computing foundations**, **data structures & algorithms**, and **AI-powered systems**.
 
-I design scalable infrastructure — then validate it under adversarial conditions.
+I build scalable infrastructure — then assess it like an attacker.
 
 > Build. Break. Harden.
 
 ---
 
-## ⚡ Core Stack
+## ⚡ Tech Stack
 
 **Languages**  
-`Python` `C` `C++` `JavaScript` `PHP` `Bash`
-
-**AI / ML**  
-`PyTorch` `Scikit-Learn` `TensorFlow`
+Python (PyTorch • Scikit-Learn • TensorFlow) • C • C++ • JavaScript • PHP • Bash  
 
 **Backend**  
-`Node.js` `Express` `Laravel` `Django` `FastAPI`
+Node.js • Express • Laravel • Django • FastAPI  
 
-**Security Engineering**  
-`Web App Testing` `Network Analysis` `Cryptography`  
-`Vulnerability Research` `Offensive Automation`
+**Security Toolchain**  
+Burp Suite • Nmap • Metasploit • Wireshark • OWASP ZAP • FFUF • Hashcat • SQLMap  
 
 ---
 
-## 🎯 Technical Focus
+## 🎯 Focus Areas
 
 - Web & API Security (OWASP Top 10)
-- Secure Authentication & JWT Systems
-- Network Traffic Analysis
+- Secure Authentication & JWT Architectures
+- Network Security & Traffic Analysis
 - Applied Cryptography
-- AI Integration into Secure Architectures
-- Offensive Security Tool Development
-
----
-
-## 🧩 Selected Engineering Principles
-
-- Security-first architecture
-- Threat modeling before deployment
-- Code audit & exploit simulation
-- Performance-aware system design
-- Clean documentation & reporting
+- Vulnerability Research
+- AI Integration into Production Systems
+- Offensive Security Automation
 
 ---
 
 ## 🌐 Connect
 
+<div align="center">
+
 [LinkedIn](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/) •
 [TryHackMe](https://tryhackme.com/p/bolice) •
 [PicoCTF](https://play.picoctf.org/users/bolice)
+
+</div>
 
 ---
 
