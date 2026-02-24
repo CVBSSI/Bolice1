@@ -39,19 +39,6 @@ Burp Suite • Nmap • Metasploit • Wireshark • OWASP ZAP • FFUF • Hash
 
 ---
 
-## 🎯 Focus Areas
-
-- Web & API Security (OWASP Top 10)
-- Secure Authentication & JWT Architectures
-- Network Security & Traffic Analysis
-- Applied Cryptography
-- Vulnerability Research
-- AI Integration into Production Systems
-- Offensive Security Automation
-- Cloud Computing & Hosting
-
----
-
 ## 🌐 Connect
 
 <div align="center">
