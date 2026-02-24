@@ -4,13 +4,9 @@
 
 ### 🔐 Penetration Tester • ⚙️ Computing Engineer • 🤖 AI & Systems Developer
 
-<img src="https://komarev.com/ghpvc/?username=Bolice1&color=blueviolet&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Bolice1?label=Followers&style=flat-square&color=blue" />
-<img src="https://img.shields.io/github/stars/Bolice1?label=Stars&style=flat-square&color=yellow" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Secure+System+Engineer;Offensive+Security+Practitioner;AI+%2B+Backend+Developer;Quantum+Computing+Explorer" />
+![Profile Views](https://komarev.com/ghpvc/?username=Bolice1&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Bolice1?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Bolice1?style=flat-square)
 
 </div>
 
@@ -18,67 +14,59 @@
 
 ## 🧠 About
 
-Engineer focused on **secure architecture**, **offensive security**, **quantum computing foundations**, **data structures & algorithms**, and **AI-powered systems**.
+Engineer specializing in **secure architecture**, **offensive security**,  
+**quantum computing foundations**, **data structures & algorithms**,  
+and **AI-powered systems**.
 
-I build scalable infrastructure — then assess it like an attacker.
+I design scalable infrastructure — then validate it under adversarial conditions.
 
 > Build. Break. Harden.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Stack
 
 **Languages**  
-Python (PyTorch • Scikit-Learn • TensorFlow) • C • C++ • JavaScript • PHP • Bash  
+`Python` `C` `C++` `JavaScript` `PHP` `Bash`
+
+**AI / ML**  
+`PyTorch` `Scikit-Learn` `TensorFlow`
 
 **Backend**  
-Node.js • Express • Laravel • Django • FastAPI  
+`Node.js` `Express` `Laravel` `Django` `FastAPI`
 
-**Security Toolchain**  
-Burp Suite • Nmap • Metasploit • Wireshark • OWASP ZAP • FFUF • Hashcat • SQLMap  
+**Security Engineering**  
+`Web App Testing` `Network Analysis` `Cryptography`  
+`Vulnerability Research` `Offensive Automation`
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Technical Focus
 
 - Web & API Security (OWASP Top 10)
-- Secure Authentication & JWT Architectures
-- Network Security & Traffic Analysis
+- Secure Authentication & JWT Systems
+- Network Traffic Analysis
 - Applied Cryptography
-- Vulnerability Research
-- AI Integration into Production Systems
-- Offensive Security Automation
+- AI Integration into Secure Architectures
+- Offensive Security Tool Development
 
 ---
 
-## 📊 GitHub Metrics
+## 🧩 Selected Engineering Principles
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img height="160em" src="https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bolice1&theme=tokyo-night&hide_border=true" />
-
-</div>
+- Security-first architecture
+- Threat modeling before deployment
+- Code audit & exploit simulation
+- Performance-aware system design
+- Clean documentation & reporting
 
 ---
 
 ## 🌐 Connect
 
-<div align="center">
-
 [LinkedIn](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/) •
 [TryHackMe](https://tryhackme.com/p/bolice) •
 [PicoCTF](https://play.picoctf.org/users/bolice)
-
-</div>
 
 ---
 
